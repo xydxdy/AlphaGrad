@@ -16,25 +16,26 @@ In this study, we propose AlphaGrad, a novel adaptive loss blending strategy for
   <img src="./static/images/toys/3d-obj.png" height="200px">
 </div>
 
-<!-- First Row: All Methods as GIFs -->
-<div style="display: flex; justify-content: center; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;">
-  <div style="text-align: center;">
+<!-- Horizontal row using inline-block -->
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 1em;">
     <h4>Baseline</h4>
     <img src="./static/images/Baseline.gif" height="150px">
   </div>
-  <div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 1em;">
     <h4>GradApprox</h4>
     <img src="./static/images/GradApprox.gif" height="150px">
   </div>
-  <div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 1em;">
     <h4>AdaMT</h4>
     <img src="./static/images/AdaMT.gif" height="150px">
   </div>
-  <div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 1em;">
     <h4>AlphaGrad (ours)</h4>
     <img src="./static/images/AlphaGrad.gif" height="150px">
   </div>
 </div>
+
 
 
 
