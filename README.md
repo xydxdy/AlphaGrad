@@ -14,7 +14,7 @@ In this study, we propose AlphaGrad, a novel adaptive loss blending strategy for
 #### Multi-task Objective
 <img src="./static/images/3d-obj.png" height="250px">
 
-<img src="./static/images/trajectory.gif" height="250px" width="auto">
+<img src="./static/images/trajectory.gif">
 
 
 
