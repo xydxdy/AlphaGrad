@@ -16,25 +16,26 @@ In this study, we propose AlphaGrad, a novel adaptive loss blending strategy for
   <img src="./static/images/toys/3d-obj.png" height="200px">
 </div>
 
-<!-- First Row: Baseline + GradApprox -->
-<div style="display: flex; justify-content: center; gap: 1.5em; margin-bottom: 2em;">
+<!-- First Row: All Methods as GIFs -->
+<div style="display: flex; justify-content: center; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="text-align: center;">
     <h4>Baseline</h4>
-    <video src="./static/videos/Fixed-video.mp4" autoplay muted loop playsinline height="150px"></video>
+    <img src="./static/images/Baseline.gif" height="150px">
   </div>
   <div style="text-align: center;">
     <h4>GradApprox</h4>
-    <video src="./static/videos/GradApprox-video.mp4" autoplay muted loop playsinline height="150px"></video>
+    <img src="./static/images/GradApprox.gif" height="150px">
   </div>
   <div style="text-align: center;">
     <h4>AdaMT</h4>
-    <video src="./static/videos/AdaMT-video.mp4" autoplay muted loop playsinline height="150px"></video>
+    <img src="./static/images/AdaMT.gif" height="150px">
   </div>
   <div style="text-align: center;">
     <h4>AlphaGrad (ours)</h4>
-    <video src="./static/videos/AlphaGrad-video.mp4" autoplay muted loop playsinline height="150px"></video>
+    <img src="./static/images/AlphaGrad.gif" height="150px">
   </div>
 </div>
+
 
 
 
